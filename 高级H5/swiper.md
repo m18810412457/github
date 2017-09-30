@@ -31,8 +31,9 @@
 </body>
 </html>
 
-## 2.初始化Swiper：最好是挨着</body>标签
 ```js
+## 2.初始化Swiper：最好是挨着</body>标签
+
 <script>        
   var mySwiper = new Swiper ('.swiper-container', {
     direction: 'vertical',
@@ -54,7 +55,7 @@
     scrollbar: '.swiper-scrollbar',
   })        
   </script>
-  
+
 ```js
 ## 注意: 页面加载完成后再初始化。 
 
