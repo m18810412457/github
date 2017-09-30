@@ -17,7 +17,7 @@
 </body>
 </html>
 ```
-###2. 初始化时隐藏元素并在需要的时刻开始动画。
+### 2. 初始化时隐藏元素并在需要的时刻开始动画。
 ```js
 <script>        
 	var mySwiper = new Swiper ('.swiper-container', {
@@ -31,7 +31,7 @@
 	})        
 </script>
 ```
-###3. 在需要运动的元素上面增加类名  ani   ，和其他的类似插件相同，Swiper Animate需要指定几个参数：
+### 3. 在需要运动的元素上面增加类名  ani   ，和其他的类似插件相同，Swiper Animate需要指定几个参数：
 		swiper-animate-effect：切换效果，例如 fadeInUp 
 		swiper-animate-duration：可选，动画持续时间（单位秒），例如 0.5s
 		swiper-animate-delay：可选，动画延迟时间（单位秒），例如 0.3s
