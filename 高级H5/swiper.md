@@ -31,7 +31,7 @@
 </body>
 </html>
 
-### 2.初始化Swiper：最好是挨着</body>标签
+## 2.初始化Swiper：最好是挨着</body>标签
 ```js
 <script>        
   var mySwiper = new Swiper ('.swiper-container', {
@@ -55,7 +55,7 @@
   })        
   </script>
 
-### 注意: 页面加载完成后再初始化。 
+## 注意: 页面加载完成后再初始化。 
 ```js
 <script type="text/javascript">
 	window.onload = function() {
