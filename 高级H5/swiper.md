@@ -1,10 +1,10 @@
-#swiper是什么？
+# swiper是什么？
   Swiper是纯javascript打造的滑动特效插件
-#有什么优点
- Swiper能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果。
- Swiper开源、免费、稳定、使用简单、功能强大，是架构移动终端网站的重要选择！
- ##使用方法
- 1.首先加载插件，需要用到的文件有swiper.min.js和swiper.min.css文件。
+# 有什么优点
+  Swiper能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果。
+  Swiper开源、免费、稳定、使用简单、功能强大，是架构移动终端网站的重要选择！
+ ## 使用方法
+  1.首先加载插件，需要用到的文件有swiper.min.js和swiper.min.css文件。
  ```html
  <!DOCTYPE html>
 <html>
