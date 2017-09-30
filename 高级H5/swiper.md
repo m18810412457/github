@@ -54,9 +54,10 @@
     scrollbar: '.swiper-scrollbar',
   })        
   </script>
-
-## 注意: 页面加载完成后再初始化。 
+  
 ```js
+## 注意: 页面加载完成后再初始化。 
+
 <script type="text/javascript">
 	window.onload = function() {
 	  ...
