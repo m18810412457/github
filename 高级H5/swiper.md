@@ -30,3 +30,5 @@
     <script src="path/to/swiper.min.js"></script>
 </body>
 </html>
+
+2.初始化Swiper：最好是挨着</body>标签
